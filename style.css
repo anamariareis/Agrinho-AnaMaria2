@@ -87,6 +87,7 @@ header{
     padding: 15px;
     border-radius: 5px;
     font-size: 20px;
+    text-wrap: balance;
    } 
 
    .menu-acessibilidade{
